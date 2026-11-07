@@ -16,3 +16,8 @@
     --border: rgba(167, 139, 250, 0.18);
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--bg);
+    color: var(--white);
+}
