@@ -114,5 +114,52 @@ header {
     cursor: pointer;
 }
 
+.home {
+    min-height: 100vh;
+    padding: 140px 9% 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+    max-width: 1400px;
+    margin: auto;
+}
+
+.home-content {
+    max-width: 650px;
+}
+
+.intro {
+    color: var(--purple);
+    letter-spacing: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.home h1 {
+    font-size: clamp(42px, 6vw, 72px);
+    line-height: 1.2;
+    font-weight: 800;
+}
+
+.home h2 {
+    font-size: 27px;
+    margin-top: 15px;
+    color: var(--purple);
+}
+
+.home-description {
+    color: var(--text);
+    line-height: 1.9;
+    margin: 22px 0 30px;
+    max-width: 560px;
+}
+
+.home-buttons {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
 
 
