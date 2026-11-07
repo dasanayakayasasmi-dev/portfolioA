@@ -4,3 +4,15 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+
+:root {
+    --bg: #101124;
+    --bg-light: #181a33;
+    --card: #1e203b;
+    --purple: #a78bfa;
+    --purple-dark: #805ad5;
+    --white: #ffffff;
+    --text: #c4c5d4;
+    --border: rgba(167, 139, 250, 0.18);
+}
+
