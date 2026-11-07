@@ -31,3 +31,11 @@ button, input, textarea {
     font-family: inherit;
 }
 
+
+section {
+    scroll-margin-top: 85px;
+}
+
+.section {
+    padding: 100px 9%;
+}
