@@ -63,4 +63,12 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+.logo {
+    font-size: 27px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
 
+.logo span {
+    color: var(--purple);
+}
